@@ -74107,5 +74107,12 @@
     "author": "leoray",
     "description": "Insert dates from quick shortcuts or a keyboard-friendly calendar while editing a note. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "leoray1990/obsidian-quick-date-entry"
+  },
+  {
+    "id": "gitlab-ondemand-sync",
+    "name": "Git On-Demand Sync",
+    "author": "Noniva",
+    "description": "Sync text-only vault files with a private GitHub or GitLab repository via REST API and load/upload images on-demand in memory with zero mobile disk storage.",
+    "repo": "noniva/obsidian-git-ondemand-sync"
   }
 ]
